@@ -1,9 +1,12 @@
 # Acknowledgements
-Most of the code pieces (except weight freezing and 10-fold CV) are taken from: https://github.com/ThilinaRajapakse/pytorch-transformers-classification
+
+We benefit from the following github repository:<br />
+https://github.com/ThilinaRajapakse/pytorch-transformers-classification <br />
+We reimplemented the codes to add weight freezing to the multilingual Bert model and 10-fold cross-validation features.
+
 
 # Execution
-First, you need to execute "data_prep.py" to convert your csv file into .tsv files.
-After that, you can run "run_model.py" to evaluate your model. 
+First, you need to execute "data_prep.py" to convert your csv file into .tsv files. After that, you can execute "run_model.py" to evaluate your model. Statistics related to the evaluation results are saved in "outputs" directory. 
 
 # Turkish-Irony-Dataset
 Turkish Social Media Dataset for Irony Detection
