@@ -1,3 +1,10 @@
+# Acknowledgements
+Most of the code pieces (except weight freezing and 10-fold CV) are taken from: https://github.com/ThilinaRajapakse/pytorch-transformers-classification
+
+# Execution
+First, you need to execute "data_prep.py" to convert your csv file into .tsv files.
+After that, you can run "run_model.py" to evaluate your model. 
+
 # Turkish-Irony-Dataset
 Turkish Social Media Dataset for Irony Detection
 
