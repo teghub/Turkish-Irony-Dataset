@@ -2,7 +2,7 @@
 
 We benefit from the following github repository:<br />
 https://github.com/ThilinaRajapakse/pytorch-transformers-classification <br />
-We reimplemented the codes to add weight freezing to the multilingual Bert model and 10-fold cross-validation features.
+We reimplemented the codes to add weight freezing and 10-fold cross-validation features.
 
 
 # Execution
