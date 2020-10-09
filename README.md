@@ -1,8 +1,8 @@
 # Acknowledgements
 
-We benefit from the following github repository:<br />
+We benefite from the following github repository:<br />
 https://github.com/ThilinaRajapakse/pytorch-transformers-classification <br />
-We reimplemented the codes to add weight freezing and 10-fold cross-validation features.
+We reimplemented the Bert codes to add weight freezing and 10-fold cross-validation features.
 
 
 # Execution
